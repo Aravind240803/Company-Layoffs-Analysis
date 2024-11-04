@@ -1,5 +1,5 @@
 ## Project Overview
-The dataset contains information about layoffs across various companies, including details such as the number of employees laid off, layoff percentages, company location, industry, and funds raised. This project aims to transform this raw data into a structured and reliable format, making it suitable for further analysis and visualization.
+This project focuses on cleaning and preparing a dataset of company layoffs for insightful analysis. Using SQL, I applied four key data cleaning steps to ensure the dataset is consistent, complete, and ready for further analysis.
 
 ## Steps Undertaken
 1) Removing Duplicates
